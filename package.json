@@ -1,10 +1,10 @@
 {
   "name": "shitisms",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A collection of Jim Lahey's finest shitisms - at your fingertips.",
   "main": "index.js",
   "bin": {
-    "shitism": "./cli.js"
+    "shit": "./cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

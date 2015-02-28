@@ -10,7 +10,7 @@ A collection of Jim Lahey's finest shitisms - at your fingertips.
 
 ### CLI Usage
 
-	shitism
+	shit
 
 Prints out a random shitism.
 
