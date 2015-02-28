@@ -1,0 +1,26 @@
+{
+  "name": "shitisms",
+  "version": "0.0.1",
+  "description": "A collection of Jim Lahey's finest shitisms - at your fingertips.",
+  "main": "index.js",
+  "bin": {
+    "shitism": "./cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baird/shitisms"
+  },
+  "keywords": [
+    "shitisms",
+    "lahey"
+  ],
+  "author": "Baird Castleberry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baird/shitisms/issues"
+  },
+  "homepage": "https://github.com/baird/shitisms"
+}
