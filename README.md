@@ -18,3 +18,7 @@ Prints out a random shitism.
 
 ###### "You just opened Pandora's shit box." - Jim Lahey
 
+John Francis Dunsworth (April 12, 1946 – October 16, 2017) RIP
+
+
+
